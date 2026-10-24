@@ -1,0 +1,39 @@
+{
+  "price_ladder_per_100ml": [
+    {"name": "Steeves maple, 250 mL", "value": 2.20, "group": "maple", "source": "Woolworths, 24 Oct 2026"},
+    {"name": "Coles Finest pure maple, 250 mL", "value": 2.40, "group": "maple", "source": "Coles, 24 Oct 2026"},
+    {"name": "Woolworths 100% maple, 250 mL", "value": 2.40, "group": "maple", "source": "Woolworths, 24 Oct 2026"},
+    {"name": "Queen pure maple, 250 mL", "value": 3.80, "group": "maple", "source": "Woolworths, 24 Oct 2026"},
+    {"name": "Rosnay spiced fig syrup, 375 mL", "value": 4.00, "group": "fig", "source": "rosnay.com.au, 24 Oct 2026"},
+    {"name": "The Figgery, 500 mL", "value": 5.38, "group": "fig", "source": "Kangaroo Island Online, 24 Oct 2026"},
+    {"name": "The Figgery, 250 mL", "value": 5.96, "group": "fig", "source": "Kangaroo Island Online, 24 Oct 2026"},
+    {"name": "Lacrima Fici, 200 mL at $12.00", "value": 6.00, "group": "us", "source": "Brief"},
+    {"name": "Lirah fig balsamic, 250 mL", "value": 6.00, "group": "other", "source": "lirah.com.au, 24 Oct 2026"},
+    {"name": "Hillside Family Grove, 250 mL", "value": 6.40, "group": "fig", "source": "Hillside, 24 Oct 2026"},
+    {"name": "Leonardi fig vincotto, 250 mL", "value": 7.58, "group": "other", "source": "Bottega 1995, 24 Oct 2026"},
+    {"name": "Pukara fig balsamic, 250 mL", "value": 7.60, "group": "other", "source": "Mortdale Fruit Box, 24 Oct 2026"},
+    {"name": "Dante fig vino cotto, 250 mL", "value": 7.62, "group": "other", "source": "Moco Food Services, 24 Oct 2026"}
+  ],
+  "maple_imports": [
+    {"year": 2021, "tonnes": 2840, "cad_m": 25.7},
+    {"year": 2022, "tonnes": 2832, "cad_m": 28.3},
+    {"year": 2023, "tonnes": 2744, "cad_m": 30.1},
+    {"year": 2024, "tonnes": 3112, "cad_m": 32.2},
+    {"year": 2025, "tonnes": 3731, "cad_m": 40.9}
+  ],
+  "maple_imports_source": "Agriculture and Agri-Food Canada, Statistical overview of the Canadian maple industry 2025, page modified 8 June 2026",
+  "margin_scenarios": [
+    {"label": "Direct to store, GST-free, $12.00", "buy": 7.50, "rrp": 12.00, "margin_pct": 37.5},
+    {"label": "Direct to store, GST-free, $12.50", "buy": 7.50, "rrp": 12.50, "margin_pct": 40.0},
+    {"label": "Direct, if GST applied, $12.00", "buy": 7.50, "rrp": 12.00, "margin_pct": 31.3},
+    {"label": "Through a distributor at 20%", "buy": 9.00, "rrp": 12.00, "margin_pct": 25.0},
+    {"label": "Supermarket, 10% everyday discount", "buy": 6.75, "rrp": 12.00, "margin_pct": 43.8},
+    {"label": "Supermarket, 20% everyday discount", "buy": 6.00, "rrp": 12.00, "margin_pct": 50.0}
+  ],
+  "margin_dollars": [
+    {"name": "Own-brand pure maple, $6.00", "dollars": 1.68, "note": "at a 28 per cent group gross margin"},
+    {"name": "Queen pure maple, $9.50", "dollars": 2.66, "note": "at a 28 per cent group gross margin"},
+    {"name": "Lacrima Fici, $12.00", "dollars": 4.50, "note": "at $7.50 wholesale"},
+    {"name": "Lacrima Fici, $12.50", "dollars": 5.00, "note": "at $7.50 wholesale"}
+  ]
+}
