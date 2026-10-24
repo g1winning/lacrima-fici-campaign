@@ -1,0 +1,857 @@
+[
+ {
+  "business": "Ballers Clubhouse",
+  "class": "venue",
+  "region": "Carlton and inner Melbourne",
+  "note": "Bar and games venue",
+  "size": "51-200",
+  "people": 2,
+  "roles": "owner; venue manager"
+ },
+ {
+  "business": "Brunetti Classico",
+  "class": "venue",
+  "region": "Carlton and inner Melbourne",
+  "note": "Carlton pasticceria and cafe since 1974; dessert and breakfast use",
+  "size": "51-200",
+  "people": 1,
+  "roles": "director"
+ },
+ {
+  "business": "Garden Street Gin Club",
+  "class": "venue",
+  "region": "Carlton and inner Melbourne",
+  "note": "Gin bar, Richmond",
+  "size": "11-50",
+  "people": 1,
+  "roles": "head of operations"
+ },
+ {
+  "business": "Gimlet",
+  "class": "venue",
+  "region": "Carlton and inner Melbourne",
+  "note": "Andrew McConnell's cocktail-led restaurant on Russell Street; the reference bar for a fig old fashioned",
+  "size": "11-50",
+  "people": 1,
+  "roles": "assistant bar manager"
+ },
+ {
+  "business": "Market Lane Coffee",
+  "class": "venue group",
+  "region": "Carlton and inner Melbourne",
+  "note": "Cafes including Carlton",
+  "size": "51-200",
+  "people": 1,
+  "roles": "director"
+ },
+ {
+  "business": "Piccolina Gelateria",
+  "class": "venue group",
+  "region": "Carlton and inner Melbourne",
+  "note": "Gelato shops across Melbourne; the ice-creamery target",
+  "size": "51-200",
+  "people": 1,
+  "roles": "general manager operations"
+ },
+ {
+  "business": "Seven Seeds Coffee Roasters",
+  "class": "venue",
+  "region": "Carlton and inner Melbourne",
+  "note": "Carlton roastery and cafes",
+  "size": "51-200",
+  "people": 1,
+  "roles": "chief operations officer"
+ },
+ {
+  "business": "The Trawool Estate",
+  "class": "venue",
+  "region": "Goulburn Valley",
+  "note": "Hotel and restaurant at Seymour, the nearest venue to the orchard on the list",
+  "size": "11-50",
+  "people": 1,
+  "roles": "executive chef"
+ },
+ {
+  "business": "Alleyway Group",
+  "class": "venue group",
+  "region": "Melbourne",
+  "note": "Venue group",
+  "size": "201-500",
+  "people": 1,
+  "roles": "founder"
+ },
+ {
+  "business": "Black Rhino Group",
+  "class": "venue group",
+  "region": "Melbourne",
+  "note": "Pub and venue group; two venue managers on the list",
+  "size": "501-1000",
+  "people": 3,
+  "roles": "chief operating officer; venue manager"
+ },
+ {
+  "business": "Brady Hotels & Apartments Melbourne",
+  "class": "venue group",
+  "region": "Melbourne",
+  "note": "Hotel portfolio",
+  "size": "11-50",
+  "people": 1,
+  "roles": "director of sales & marketing - hotel portfolio"
+ },
+ {
+  "business": "Candela Nuevo",
+  "class": "venue group",
+  "region": "Melbourne",
+  "note": "Spanish restaurant and bar group",
+  "size": "11-50",
+  "people": 2,
+  "roles": "general manager; head chef"
+ },
+ {
+  "business": "Doxa Community Club",
+  "class": "venue",
+  "region": "Melbourne",
+  "note": "Club venue",
+  "size": "51-200",
+  "people": 3,
+  "roles": "assistant venue manager; group general manager; venue manager at central point"
+ },
+ {
+  "business": "Drumplings",
+  "class": "venue",
+  "region": "Melbourne",
+  "note": "Dumpling restaurants",
+  "size": "11-50",
+  "people": 1,
+  "roles": "founder /  / creative director /  / chief executive officer"
+ },
+ {
+  "business": "Fonda Mexican",
+  "class": "venue group",
+  "region": "Melbourne",
+  "note": "Restaurant chain",
+  "size": "201-500",
+  "people": 1,
+  "roles": "co-founder & non-executive director"
+ },
+ {
+  "business": "Lanson Place Parliament Gardens Melbourne",
+  "class": "venue",
+  "region": "Melbourne",
+  "note": "Hotel; executive chef and general manager on the list",
+  "size": "51-200",
+  "people": 4,
+  "roles": "director of sales and marketing; executive chef; general manager; head of people & culture, australia"
+ },
+ {
+  "business": "Le Feu Gluten Free",
+  "class": "venue",
+  "region": "Melbourne",
+  "note": "Chef-owned bakery cafe",
+  "size": "11-50",
+  "people": 1,
+  "roles": "chef-owner"
+ },
+ {
+  "business": "Left Bank Melbourne",
+  "class": "venue",
+  "region": "Melbourne",
+  "note": "Riverside restaurant and bar",
+  "size": "51-200",
+  "people": 1,
+  "roles": "bar manager"
+ },
+ {
+  "business": "MS FRANKIE",
+  "class": "venue",
+  "region": "Melbourne",
+  "note": "Restaurant and bar",
+  "size": "51-200",
+  "people": 1,
+  "roles": "general manager"
+ },
+ {
+  "business": "Mantra Melbourne Epping",
+  "class": "venue",
+  "region": "Melbourne",
+  "note": "Hotel; two head chefs on the list",
+  "size": "51-200",
+  "people": 1,
+  "roles": "head chef"
+ },
+ {
+  "business": "Mörk Chocolate",
+  "class": "venue",
+  "region": "Melbourne",
+  "note": "Hot chocolate brew house, North Melbourne",
+  "size": "11-50",
+  "people": 1,
+  "roles": "co-founder"
+ },
+ {
+  "business": "Pratt Hospitality Group",
+  "class": "venue group",
+  "region": "Melbourne",
+  "note": "Venue group; managing director and venue manager on the list",
+  "size": "11-50",
+  "people": 2,
+  "roles": "managing director; venue manager"
+ },
+ {
+  "business": "Red Rock Venues",
+  "class": "venue group",
+  "region": "Melbourne",
+  "note": "Large pub group",
+  "size": "1001-5000",
+  "people": 1,
+  "roles": "group excecutive head chef"
+ },
+ {
+  "business": "Red Spice Road",
+  "class": "venue",
+  "region": "Melbourne",
+  "note": "Restaurant group",
+  "size": "51-200",
+  "people": 1,
+  "roles": "executive chef"
+ },
+ {
+  "business": "Saluministi",
+  "class": "venue",
+  "region": "Melbourne",
+  "note": "Italian paninoteca",
+  "size": "11-50",
+  "people": 1,
+  "roles": "co-founder & owner"
+ },
+ {
+  "business": "Sand Hill Road",
+  "class": "venue group",
+  "region": "Melbourne",
+  "note": "Pub group: Garden State, Prahran Hotel, Waterside",
+  "size": "201-500",
+  "people": 2,
+  "roles": "chief financial officer; venue manager - waterside hotel"
+ },
+ {
+  "business": "The George On Collins",
+  "class": "venue",
+  "region": "Melbourne",
+  "note": "Collins Street venue; owner and two general managers on the list",
+  "size": "51-200",
+  "people": 2,
+  "roles": "general manager & director; owner"
+ },
+ {
+  "business": "The Royce | Melbourne",
+  "class": "venue",
+  "region": "Melbourne",
+  "note": "Hotel on St Kilda Road",
+  "size": "51-200",
+  "people": 1,
+  "roles": "cluster director of business development"
+ },
+ {
+  "business": "The StandardX, Melbourne",
+  "class": "venue",
+  "region": "Melbourne",
+  "note": "Fitzroy hotel with restaurant and bar",
+  "size": "51-200",
+  "people": 1,
+  "roles": "general manager"
+ },
+ {
+  "business": "The Timber Yard",
+  "class": "venue",
+  "region": "Melbourne",
+  "note": "Port Melbourne event venue",
+  "size": "11-50",
+  "people": 5,
+  "roles": "founder / director; founder / owner; general manager; head of sales - the timber yard"
+ },
+ {
+  "business": "View Melbourne",
+  "class": "venue",
+  "region": "Melbourne",
+  "note": "Hotel",
+  "size": "51-200",
+  "people": 1,
+  "roles": "hotel general manager"
+ },
+ {
+  "business": "Yo-Chi Frozen Yogurt",
+  "class": "venue group",
+  "region": "Melbourne",
+  "note": "Frozen yoghurt chain with a toppings bar; operations and venue managers on the list",
+  "size": "201-500",
+  "people": 9,
+  "roles": "finance director; general manager of global development; general manager operations; head of creative & social - sea; head of talent; property director; talent acquisition business partner; venue manager"
+ },
+ {
+  "business": "Zagame Corporation",
+  "class": "venue group",
+  "region": "Melbourne",
+  "note": "Hotel and venue group; group executive chef on the list",
+  "size": "501-1000",
+  "people": 3,
+  "roles": "general manager property development; group executive chef; managing director"
+ },
+ {
+  "business": "Speakeasy Group",
+  "class": "venue group",
+  "region": "Melbourne and Sydney",
+  "note": "Eau de Vie, Boilermaker House and sister cocktail bars; the strongest cocktail-channel target",
+  "size": "51-200",
+  "people": 3,
+  "roles": "founder & chief executive officer; head of marketing & partnerships; managing director"
+ },
+ {
+  "business": "Veriu Group | Veriu Hotels & Suites | Punthill Apartment Hotels",
+  "class": "venue group",
+  "region": "Melbourne and Sydney",
+  "note": "Apartment hotels",
+  "size": "201-500",
+  "people": 3,
+  "roles": "founder; group associate director of sales - business development; interim general manager"
+ },
+ {
+  "business": "Lancemore Hotel Group",
+  "class": "venue group",
+  "region": "Melbourne, with Lindenderry at Red Hill",
+  "note": "Boutique hotel group whose Peninsula property is Lindenderry; chefs and sales directors on the list",
+  "size": "201-500",
+  "people": 7,
+  "roles": "chief executive officer; chief operating officer; director of sales; director of sales - macedon ranges & cleveland estate; general manager; general manager | lancemore mansion hotel & spa werribee park"
+ },
+ {
+  "business": "Darling Group",
+  "class": "venue group",
+  "region": "Melbourne, with Stringers at Sorrento",
+  "note": "Top Paddock, Higher Ground, Stringers Sorrento; venue manager at Mount Eliza on the list",
+  "size": "501-1000",
+  "people": 2,
+  "roles": "marketing director; venue manager"
+ },
+ {
+  "business": "Commonfolk Group",
+  "class": "venue group",
+  "region": "Mornington Peninsula",
+  "note": "Cafes and roastery at Mornington; breakfast use",
+  "size": "51-200",
+  "people": 1,
+  "roles": "managing director"
+ },
+ {
+  "business": "Green Olive At Red Hill",
+  "class": "venue",
+  "region": "Mornington Peninsula",
+  "note": "Farm gate, restaurant and cellar door at Main Ridge; also a retail shelf",
+  "size": "1-10",
+  "people": 2,
+  "roles": "founder and owner; general manager"
+ },
+ {
+  "business": "Holiday Shacks Luxury Holiday Accommodation",
+  "class": "venue",
+  "region": "Mornington Peninsula",
+  "note": "Luxury holiday houses on the Peninsula; a welcome-hamper use",
+  "size": "1-10",
+  "people": 1,
+  "roles": "managing director"
+ },
+ {
+  "business": "Jackalope Hotels",
+  "class": "venue group",
+  "region": "Mornington Peninsula",
+  "note": "Luxury hotel at Merricks North with Doot Doot Doot and Rare Hare; group executive chef on the list",
+  "size": "51-200",
+  "people": 5,
+  "roles": "director of marketing; director of sales and marketing; general manager; group executive chef; venue manager"
+ },
+ {
+  "business": "JimmyRum",
+  "class": "venue",
+  "region": "Mornington Peninsula",
+  "note": "Rum distillery and bar at Dromana; cocktail use",
+  "size": "11-50",
+  "people": 2,
+  "roles": "general manager; venue manager"
+ },
+ {
+  "business": "Montalto™",
+  "class": "venue",
+  "region": "Mornington Peninsula",
+  "note": "Winery restaurant and piazza at Red Hill South; cheese and dessert menus",
+  "size": "51-200",
+  "people": 1,
+  "roles": "food and beverage manager"
+ },
+ {
+  "business": "Moonah Links Resort",
+  "class": "venue",
+  "region": "Mornington Peninsula",
+  "note": "Golf resort and restaurant at Fingal",
+  "size": "51-200",
+  "people": 1,
+  "roles": "assistant general manager"
+ },
+ {
+  "business": "Polperro Winery",
+  "class": "venue",
+  "region": "Mornington Peninsula",
+  "note": "Winery with restaurant at Red Hill",
+  "size": "51-200",
+  "people": 1,
+  "roles": "polperro winery group - co- founder | director"
+ },
+ {
+  "business": "Red Gum BBQ",
+  "class": "venue",
+  "region": "Mornington Peninsula",
+  "note": "Smokehouse at Red Hill; glaze use",
+  "size": "11-50",
+  "people": 1,
+  "roles": "owner and pitmaster"
+ },
+ {
+  "business": "The Continental Sorrento",
+  "class": "venue",
+  "region": "Mornington Peninsula",
+  "note": "Hotel, restaurants and bars at Sorrento; two head chefs on the list",
+  "size": "51-200",
+  "people": 2,
+  "roles": "general manager sales marketing; head chef"
+ },
+ {
+  "business": "YOMG",
+  "class": "venue group",
+  "region": "Mornington Peninsula origin, now statewide",
+  "note": "Frozen yoghurt and burger chain that began at Mornington; a topping use",
+  "size": "201-500",
+  "people": 1,
+  "roles": "venue manager"
+ },
+ {
+  "business": "Austin's Wines",
+  "class": "venue",
+  "region": "Surf Coast and Geelong",
+  "note": "Winery at Sutherlands Creek, Geelong",
+  "size": "11-50",
+  "people": 1,
+  "roles": "director"
+ },
+ {
+  "business": "Great Ocean Road Resort",
+  "class": "venue",
+  "region": "Surf Coast and Geelong",
+  "note": "Resort at Anglesea",
+  "size": "11-50",
+  "people": 1,
+  "roles": "wellness director"
+ },
+ {
+  "business": "Novotel Geelong",
+  "class": "venue",
+  "region": "Surf Coast and Geelong",
+  "note": "Hotel at Geelong; two directors of food and beverage and an executive chef on the list",
+  "size": "51-200",
+  "people": 2,
+  "roles": "director of food and beverage; executive chef"
+ },
+ {
+  "business": "Town & Country Pizza and Pasta",
+  "class": "venue group",
+  "region": "Surf Coast and Geelong",
+  "note": "Restaurant chain on the Bellarine and Surf Coast",
+  "size": "51-200",
+  "people": 1,
+  "roles": "managing director"
+ },
+ {
+  "business": "Edge Hospitality Melbourne",
+  "class": "venue",
+  "region": "Yarra Valley",
+  "note": "Venues at Yarra Glen",
+  "size": "11-50",
+  "people": 1,
+  "roles": "general manager"
+ },
+ {
+  "business": "Scicluna's",
+  "class": "retail",
+  "region": "Mornington Peninsula",
+  "note": "Fine-food grocer and deli at Mount Eliza; a shelf for the bottle",
+  "size": "201-500",
+  "people": 2,
+  "roles": "general manager; general manager - wholesale"
+ },
+ {
+  "business": "Black Truffle Catering",
+  "class": "caterer",
+  "region": "Melbourne",
+  "note": "Caterer",
+  "size": "11-50",
+  "people": 1,
+  "roles": "director"
+ },
+ {
+  "business": "Elizabeth Andrews Catering",
+  "class": "caterer",
+  "region": "Melbourne",
+  "note": "Caterer",
+  "size": "11-50",
+  "people": 1,
+  "roles": "director"
+ },
+ {
+  "business": "Fabulous Catering",
+  "class": "caterer",
+  "region": "Melbourne",
+  "note": "Caterer; owner and two head chefs on the list",
+  "size": "51-200",
+  "people": 2,
+  "roles": "head chef; owner"
+ },
+ {
+  "business": "Kegs on Legs",
+  "class": "caterer",
+  "region": "Melbourne",
+  "note": "Beverage caterer",
+  "size": "51-200",
+  "people": 1,
+  "roles": "director"
+ },
+ {
+  "business": "Liquid Infusion Mobile Bar Service",
+  "class": "caterer",
+  "region": "Melbourne",
+  "note": "Mobile bar and cocktail caterer",
+  "size": "51-200",
+  "people": 1,
+  "roles": "managing director"
+ },
+ {
+  "business": "Mister Bartender",
+  "class": "caterer",
+  "region": "Melbourne",
+  "note": "Mobile bar service",
+  "size": "1-10",
+  "people": 1,
+  "roles": "operations director"
+ },
+ {
+  "business": "Fastrac Foodservice",
+  "class": "distributor",
+  "region": "Mornington Peninsula",
+  "note": "Foodservice distributor serving the Peninsula",
+  "size": "51-200",
+  "people": 1,
+  "roles": "general manager"
+ },
+ {
+  "business": "5Ways Foodservice",
+  "class": "distributor",
+  "region": "Victoria",
+  "note": "Foodservice distributor; chief executive and purchasing manager on the list",
+  "size": "51-200",
+  "people": 2,
+  "roles": "chief executive officer; purchasing manager"
+ },
+ {
+  "business": "Barrel House Distribution",
+  "class": "distributor",
+  "region": "Victoria",
+  "note": "Drinks distributor to bars; the cocktail-channel route",
+  "size": "1-10",
+  "people": 1,
+  "roles": "director"
+ },
+ {
+  "business": "Basile Imports",
+  "class": "distributor",
+  "region": "Victoria",
+  "note": "Italian fine-food importer and distributor",
+  "size": "51-200",
+  "people": 2,
+  "roles": "general manager; marketing director"
+ },
+ {
+  "business": "Biodynamic Marketing Company",
+  "class": "distributor",
+  "region": "Victoria",
+  "note": "Organic and biodynamic wholesaler",
+  "size": "1-10",
+  "people": 1,
+  "roles": "general manager"
+ },
+ {
+  "business": "CHG Australia",
+  "class": "distributor",
+  "region": "Victoria",
+  "note": "Hospitality supply",
+  "size": "51-200",
+  "people": 1,
+  "roles": "managing director"
+ },
+ {
+  "business": "Campoli Foods",
+  "class": "distributor",
+  "region": "Victoria",
+  "note": "Italian food importer",
+  "size": "51-200",
+  "people": 1,
+  "roles": "purchasing manager"
+ },
+ {
+  "business": "City Larder",
+  "class": "distributor",
+  "region": "Victoria",
+  "note": "Specialty food distributor at Coburg North, named in the research as a route to delis",
+  "size": "11-50",
+  "people": 1,
+  "roles": "general manager"
+ },
+ {
+  "business": "Complete Beverage Services Pty Ltd Australia",
+  "class": "distributor",
+  "region": "Victoria",
+  "note": "Beverage services to venues",
+  "size": "11-50",
+  "people": 1,
+  "roles": "managing director"
+ },
+ {
+  "business": "EuroStore Australia",
+  "class": "distributor",
+  "region": "Victoria",
+  "note": "European fine-food importer",
+  "size": "11-50",
+  "people": 1,
+  "roles": "managing director"
+ },
+ {
+  "business": "Ganley Group Hospitality Purveyors Co.",
+  "class": "distributor",
+  "region": "Victoria",
+  "note": "Hospitality purveyor",
+  "size": "51-200",
+  "people": 1,
+  "roles": "head of marketing"
+ },
+ {
+  "business": "Gippsland Cheese",
+  "class": "distributor",
+  "region": "Victoria",
+  "note": "Cheese wholesaler and retailer; the natural partner for the cheese pairing",
+  "size": "11-50",
+  "people": 1,
+  "roles": "executive director"
+ },
+ {
+  "business": "Happy Green Distribution",
+  "class": "distributor",
+  "region": "Victoria",
+  "note": "Small specialty distributor",
+  "size": "1-10",
+  "people": 1,
+  "roles": "general manager"
+ },
+ {
+  "business": "My Local Foodie",
+  "class": "distributor",
+  "region": "Victoria",
+  "note": "Food distributor; chief executive and head of procurement on the list",
+  "size": "11-50",
+  "people": 2,
+  "roles": "chief executive officer; head of procurement"
+ },
+ {
+  "business": "Sealane Group",
+  "class": "distributor",
+  "region": "Victoria",
+  "note": "Foodservice distributor",
+  "size": "51-200",
+  "people": 1,
+  "roles": "head of marketing department"
+ },
+ {
+  "business": "Viking Food Solutions",
+  "class": "distributor",
+  "region": "Victoria",
+  "note": "Foodservice distributor",
+  "size": "51-200",
+  "people": 2,
+  "roles": "general manager operations; managing director"
+ },
+ {
+  "business": "Honest Eggs Co.",
+  "class": "peer producer",
+  "region": "Daylesford",
+  "note": "Eggs; farm brand that reached supermarkets",
+  "size": "1-10",
+  "people": 1,
+  "roles": "general manager"
+ },
+ {
+  "business": "Banks Botanicals",
+  "class": "peer producer",
+  "region": "Melbourne",
+  "note": "Non-alcoholic spirits",
+  "size": "1-10",
+  "people": 1,
+  "roles": "founder & chief executive officer"
+ },
+ {
+  "business": "Bruno 1956",
+  "class": "peer producer",
+  "region": "Melbourne",
+  "note": "Confectionery importer; purchasing manager on the list",
+  "size": "11-50",
+  "people": 2,
+  "roles": "purchasing manager; sales & marketing director"
+ },
+ {
+  "business": "Cardwell Cellars",
+  "class": "peer producer",
+  "region": "Melbourne",
+  "note": "Wine",
+  "size": "1-10",
+  "people": 1,
+  "roles": "co-owner"
+ },
+ {
+  "business": "Charlie's Fine Food Co.",
+  "class": "peer producer",
+  "region": "Melbourne",
+  "note": "Biscuits",
+  "size": "11-50",
+  "people": 1,
+  "roles": "head of sales & marketing & product innovation"
+ },
+ {
+  "business": "Cheeky Foods",
+  "class": "peer producer",
+  "region": "Melbourne",
+  "note": "Food brand",
+  "size": "11-50",
+  "people": 1,
+  "roles": "chief executive officer & founder"
+ },
+ {
+  "business": "Curatif",
+  "class": "peer producer",
+  "region": "Melbourne",
+  "note": "Bottled cocktails",
+  "size": "11-50",
+  "people": 1,
+  "roles": "managing director & co-founder"
+ },
+ {
+  "business": "Deliciou",
+  "class": "peer producer",
+  "region": "Melbourne",
+  "note": "Plant-based food brand",
+  "size": "11-50",
+  "people": 1,
+  "roles": "founder and chief executive officer"
+ },
+ {
+  "business": "Dillicious",
+  "class": "peer producer",
+  "region": "Melbourne",
+  "note": "Pickles",
+  "size": "1-10",
+  "people": 1,
+  "roles": "founder & general manager"
+ },
+ {
+  "business": "ITINERANT SPIRITS",
+  "class": "peer producer",
+  "region": "Melbourne",
+  "note": "Distillery",
+  "size": "11-50",
+  "people": 1,
+  "roles": "co-founder | managing director"
+ },
+ {
+  "business": "Mingle Seasoning",
+  "class": "peer producer",
+  "region": "Melbourne",
+  "note": "Seasonings brand that went from markets to Woolworths; a founder worth a conversation about ranging",
+  "size": "11-50",
+  "people": 2,
+  "roles": "founder; head of supply chain"
+ },
+ {
+  "business": "Naught Distilling",
+  "class": "peer producer",
+  "region": "Melbourne",
+  "note": "Gin distillery",
+  "size": "11-50",
+  "people": 2,
+  "roles": "general manager / head of sales; managing director"
+ },
+ {
+  "business": "Nourishme Organics",
+  "class": "peer producer",
+  "region": "Melbourne",
+  "note": "Health food brand",
+  "size": "1-10",
+  "people": 1,
+  "roles": "managing director and founder"
+ },
+ {
+  "business": "PetitsTresors",
+  "class": "peer producer",
+  "region": "Melbourne",
+  "note": "Confectionery",
+  "size": "11-50",
+  "people": 1,
+  "roles": "founder"
+ },
+ {
+  "business": "WR&D Wells",
+  "class": "peer producer",
+  "region": "Melbourne",
+  "note": "Frozen dessert manufacturer",
+  "size": "11-50",
+  "people": 1,
+  "roles": "general manager australia & new zealand"
+ },
+ {
+  "business": "StrangeLove Beverage Co",
+  "class": "peer producer",
+  "region": "Melbourne and Queenscliff",
+  "note": "Premium mixers",
+  "size": "11-50",
+  "people": 2,
+  "roles": "founder; general manager"
+ },
+ {
+  "business": "TWØBAYS Brewing Co",
+  "class": "peer producer",
+  "region": "Mornington Peninsula",
+  "note": "Gluten-free brewery at Dromana; a Peninsula producer neighbour",
+  "size": "11-50",
+  "people": 1,
+  "roles": "founder and chief executive officer"
+ },
+ {
+  "business": "Australian Sustainable Dairies",
+  "class": "peer producer",
+  "region": "Victoria",
+  "note": "Dairy brands Barambah and five:am",
+  "size": "11-50",
+  "people": 3,
+  "roles": "chief executive officer - barambah / five:am; finance business partner - supply chain; marketing & strategy director"
+ },
+ {
+  "business": "Dollar Sweets",
+  "class": "peer producer",
+  "region": "Victoria",
+  "note": "Toppings and sprinkles manufacturer; a competitor on the topping shelf",
+  "size": "51-200",
+  "people": 3,
+  "roles": "chief financial officer; chief operating officer; managing director"
+ }
+]
