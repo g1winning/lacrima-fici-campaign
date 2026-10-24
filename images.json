@@ -46,5 +46,125 @@
   "h": 768,
   "alt": "An open kraft box lined with tissue holding a flask bottle, two figs and a card.",
   "caption": "The buyer's box as it lands on a desk on 17 November."
+ },
+ "L09-grocer-shelf": {
+  "w": 1344,
+  "h": 768,
+  "alt": "A fine-food grocer shelf of oils and syrups with a flask bottle front and centre.",
+  "caption": "The facing a buyer is being asked for."
+ },
+ "L10-family-table": {
+  "w": 1344,
+  "h": 768,
+  "alt": "A long lunch table set under a spreading fig tree in dappled light.",
+  "caption": "The harvest lunch, Saturday 13 March 2027."
+ },
+ "L11-yoghurt-bowl": {
+  "w": 1344,
+  "h": 768,
+  "alt": "A stoneware bowl of yoghurt with quartered figs, walnuts and a syrup swirl.",
+  "caption": "Weekday breakfast."
+ },
+ "L12-gelato": {
+  "w": 1344,
+  "h": 768,
+  "alt": "Two scoops of vanilla gelato in a glass coupe with syrup running down the glass.",
+  "caption": "Dessert, for the Easter posts."
+ },
+ "L13-copper-pot": {
+  "w": 1344,
+  "h": 768,
+  "alt": "A copper pot of crushed figs reducing on an old stove, steam rising.",
+  "caption": "The whole method: crushed, warmed, bottled."
+ },
+ "L14-case-of-twelve": {
+  "w": 1344,
+  "h": 768,
+  "alt": "An open kraft carton with dividers holding twelve small flask bottles, overhead.",
+  "caption": "The case of twelve for the specification sheet."
+ },
+ "L15-fig-macro": {
+  "w": 1344,
+  "h": 768,
+  "alt": "A halved fig in close-up with pink seeded flesh and two droplets of syrup.",
+  "caption": "Macro texture for the website."
+ },
+ "L16-roast-glaze": {
+  "w": 1344,
+  "h": 768,
+  "alt": "A roast pork loin with a dark glaze, roasted figs and red onion on a board.",
+  "caption": "Easter lunch, for Country Style and the Facebook Easter post."
+ },
+ "S01-single-fig-tear": {
+  "w": 1024,
+  "h": 1024,
+  "alt": "A single ripe fig on cream parchment weeping one golden drop.",
+  "caption": "Instagram caption 1."
+ },
+ "S02-bottle-on-linen": {
+  "w": 1024,
+  "h": 1024,
+  "alt": "A flask bottle of dark syrup on cream linen with two figs and a leaf.",
+  "caption": "Instagram caption 2. The real label replaces the blank one."
+ },
+ "S03-pancakes-overhead": {
+  "w": 1024,
+  "h": 1024,
+  "alt": "Pancakes with figs and syrup, overhead.",
+  "caption": "Instagram caption 3."
+ },
+ "S04-cheese-plate": {
+  "w": 1024,
+  "h": 1024,
+  "alt": "Blue cheese, a quartered fig, walnuts and a spoon of syrup on a cream plate.",
+  "caption": "Instagram caption 4."
+ },
+ "S05-cocktail-square": {
+  "w": 1024,
+  "h": 1024,
+  "alt": "A coupe glass of a dark cocktail with a fig slice on the rim.",
+  "caption": "Instagram caption 8."
+ },
+ "S06-hands-figs": {
+  "w": 1024,
+  "h": 1024,
+  "alt": "Two weathered hands cupping a heap of dark figs.",
+  "caption": "Instagram caption 5."
+ },
+ "S07-orchard-square": {
+  "w": 1024,
+  "h": 1024,
+  "alt": "A fig tree heavy with fruit in a flat orchard at golden hour.",
+  "caption": "Instagram caption 9."
+ },
+ "S08-spoon-pour-macro": {
+  "w": 1024,
+  "h": 1024,
+  "alt": "Dark syrup pouring in a thin ribbon from a brass spoon onto yoghurt, backlit.",
+  "caption": "Instagram caption 7."
+ },
+ "S09-fig-leaves-flatlay": {
+  "w": 1024,
+  "h": 1024,
+  "alt": "Fig leaves, whole and halved figs and a dish of syrup on linen, overhead.",
+  "caption": "Facebook harvest post."
+ },
+ "S10-porridge": {
+  "w": 1024,
+  "h": 1024,
+  "alt": "A bowl of porridge with sliced figs, a syrup swirl and toasted almonds.",
+  "caption": "Weekday breakfast post."
+ },
+ "S11-granny-kitchen": {
+  "w": 1024,
+  "h": 1024,
+  "alt": "A kitchen bench with a chopping board of figs, an enamel pot and a flask bottle.",
+  "caption": "Family story post."
+ },
+ "S12-toast-ricotta": {
+  "w": 1024,
+  "h": 1024,
+  "alt": "Sourdough toast with ricotta, sliced figs and syrup dripping down the side.",
+  "caption": "Weekend post."
  }
 }
